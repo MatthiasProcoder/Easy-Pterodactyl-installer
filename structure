@@ -1,0 +1,28 @@
+
+### **4. Create a Release**
+1. Go to your repository
+2. Click "Releases" → "Create a new release"
+3. Tag: `v1.0`
+4. Title: "Pterodactyl Installer v1.0"
+5. Publish
+
+### **5. Share Everywhere!**
+- **Discord**: Share in Pterodactyl communities
+- **Reddit**: r/admincraft, r/Pterodactyl
+- **Twitter**: Tag @Pterodactyl
+
+---
+
+## **Quick Commands for Your Users**
+
+| Action | Command |
+|--------|---------|
+| **Install Panel** | Option 1 in menu |
+| **Install Wings** | Option 2 in menu |
+| **Install Blueprint** | Option 3 in menu |
+| **Install Nebula** | Option 4 in menu |
+| **Install Tools** | Option 5 in menu |
+| **Update Everything** | Option 6 in menu |
+| **Uninstall** | Option 7 in menu |
+
+---
