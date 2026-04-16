@@ -45,7 +45,7 @@ For questions, permissions, or collaborations:
 - Discord: https://discord.gg/J2SqrH9nwZ
 - GitHub: https://github.com/MatthiasProcoder
 
-
+stopped working 
 Easy-Pterodactyl-installer/
 ├── pterodactyl-mega-installer.sh    ← Main installer script (with copyright header)
 ├── README.md                         ← Documentation (with copyright footer)
